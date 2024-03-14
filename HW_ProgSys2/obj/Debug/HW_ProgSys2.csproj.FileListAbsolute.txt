@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\bin\Debug\HW_ProgSys2.exe.config
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\bin\Debug\HW_ProgSys2.exe
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\bin\Debug\HW_ProgSys2.pdb
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\obj\Debug\HW_ProgSys2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\obj\Debug\HW_ProgSys2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\obj\Debug\HW_ProgSys2.exe
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\obj\Debug\HW_ProgSys2.pdb
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\bin\Debug\DustInTheWind.WindowsApi.Processthreadsapi.dll
+C:\Users\Admin\source\repos\HW_ProgSys2\HW_ProgSys2\obj\Debug\HW_ProgS.B95BB03A.Up2Date
